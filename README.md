@@ -1,5 +1,7 @@
 # algorithm-study
-- https://github.com/RecoRecoNi/Algorithm-Study 를 참고해서 만들었습니다.
+- 문제 뽑기
+  - https://github.com/tony9402/baekjoon/blob/main/picked.md
+  - https://solved.ac/class
 ---
 ### 1️⃣팀[골드] - 화/목 오전 10시
 - 박찬영
@@ -43,5 +45,3 @@
 
 ### 참고사이트
 - https://github.com/RecoRecoNi/Algorithm-Study
-- https://github.com/tony9402/baekjoon/blob/main/picked.md
-- https://solved.ac/class
