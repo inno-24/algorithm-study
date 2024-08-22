@@ -1,20 +1,22 @@
 # algorithm-study
-- https://github.com/RecoRecoNi/Algorithm-Study 를 참고해서 만들었습니다.
+- 문제 뽑기
+  - https://github.com/tony9402/baekjoon/blob/main/picked.md
+  - https://solved.ac/class
 ---
-### 1️⃣팀 - 화/목 오전 10시
+### 1️⃣팀[골드] - 화/목 오전 10시
 - 박찬영
 - 전효열
 - 박서희
+
+### 2️⃣팀[실버] - 수/금 오전 10시
 - 김채린
 - 박지은
 - 조수인
-
-
-### 2️⃣팀 - 수/금 오전 10시
-- 박찬영
-- 윤상원
 - 김영아
 - 박광열
+
+### 3️⃣팀[브론즈] - 수/금 오전 10시
+- 윤상원
 - 김무성
 - 정은화
 - 송우진
@@ -43,4 +45,3 @@
 
 ### 참고사이트
 - https://github.com/RecoRecoNi/Algorithm-Study
-- https://github.com/tony9402/baekjoon/blob/main/picked.md
