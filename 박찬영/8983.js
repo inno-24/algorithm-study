@@ -8,8 +8,8 @@ let input = fs.readFileSync(filePath).toString().trim().split("\n");
  *  - 사대를 오름차순으로 정렬
  *  - 각 동물들을 순회하면서, 사대 이분탐색
  *    - 특정 사대에 dist <= L 이라면, count+1
- *    - 특정 사대보다 index가 작다면, 왼쪽으로 이분탐색
- *    - 특정 사대보다 index가 크다면, 오른쪽으로 이분탐색
+ *    - 특정 사대보다 index가 크다면, 왼쪽으로 이분탐색
+ *    - 특정 사대보다 index가 작다면, 오른쪽으로 이분탐색
  */
 
 const [M, N, L] = input.shift().split(" ").map(Number);
